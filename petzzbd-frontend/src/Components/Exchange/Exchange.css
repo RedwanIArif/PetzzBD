@@ -1,0 +1,56 @@
+h1{
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.input{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 233, 233);
+    box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+}
+.text_field_ex{
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 233, 233);
+    box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 14px -13px rgba(0,0,0,0.75);
+}
+
+.center_ex{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.item_center_ex{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.exchange{
+    background-color: #9C27B0;
+    color: white;
+    width: 300px;
+}
+.exchange:hover{
+    background-color: #89219b;
+    transition: 0.2s ease-in-out;
+    /* color: white; */
+}
+.custom-file-input{
+    background: #4506CB;
+    color: white;
+    border: 1px solid rgb(15, 2, 65);
+}
