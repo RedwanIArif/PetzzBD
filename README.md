@@ -1,4 +1,9 @@
-PetzzBD is a MERN stack project designed to [briefly describe the purpose of your project, e.g., manage pet services, e-commerce for pet products, etc.].
+PetzzBD is a MERN stack project designed as a complete pet care service provider platform. It mainly has the following features.
+- Veterinarian Doctor's Portal.
+- Shop for medicine and pet care products.
+- Adoption Service.
+- Blog section.
+- Daycare Service.
 
 ## Table of Contents
 
